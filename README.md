@@ -23,7 +23,7 @@ Note: No separate metrics table or complex DAX model was used in this version.
 - Platform
 - Publisher
 - Detailed Table: Displays game-level data with all relevant fields in English
-- 
+
 **Tools Used**
 - Power BI Desktop
 - Power Query for basic ETL and column transformations
